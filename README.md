@@ -37,3 +37,12 @@ Los principales beneficiarios serán los dueños y empleados de los comercios de
 Alcance del proyecto
 
 El sistema permitirá registrar productos, controlar el stock y gestionar ventas dentro de un comercio. No incluirá funcionalidades avanzadas como facturación electrónica ni integración con sistemas externos. El proyecto estará enfocado en brindar una solución simple, funcional y fácil de usar
+
+Cronograma de actividades
+Estudio de factibilidad 
+Tecnica
+Economica
+Operativa
+Requerimientos Funcionales
+Requisitos generales
+Requisitos funcionales

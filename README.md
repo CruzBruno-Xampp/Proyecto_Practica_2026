@@ -15,7 +15,7 @@ Nombre: Ramiro Delgado
 Email: 45252758@populorumjujuy.ar
 GitHub: RamiroDelgado-SQL
 Ultimo cambios en archivo
-
+## Profesores:
 Comercio de villatech 
 
 Definición del problema

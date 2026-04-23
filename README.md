@@ -39,10 +39,13 @@ Alcance del proyecto
 El sistema permitirá registrar productos, controlar el stock y gestionar ventas dentro de un comercio. No incluirá funcionalidades avanzadas como facturación electrónica ni integración con sistemas externos. El proyecto estará enfocado en brindar una solución simple, funcional y fácil de usar
 
 Cronograma de actividades
-Estudio de factibilidad 
-Tecnica
-Economica
-Operativa
+Estudio de factibilidad
+Tecnica: El sistema es viable técnicamente ya que se utilizarán tecnologías conocidas y accesibles.
+Economica: El costo de desarrollo es bajo, ya que se utilizarán herramientas gratuitas.
+Operativa: El sistema podrá ser utilizado fácilmente por los usuarios sin necesidad de conocimientos avanzados.
 Requerimientos Funcionales
-Requisitos generales
-Requisitos funcionales
+Requisitos generales: El sistema debe ser fácil de usar
+Debe ser rápido y eficiente
+Requisitos funcionales: Registrar productos
+Gestionar ventas
+Controlar stock
